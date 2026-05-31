@@ -396,7 +396,7 @@ with tab4:
 # ==========================================================
 st.markdown("""
     <div class="footer">
-        🎓 <strong>Project Purpose:</strong>Final Project for CIS 220.<br>
+        🎓 <strong>Purpose:</strong> Final Project for CIS 220.<br>
         👤 <strong>Designed & Built by:</strong> Erden Jhed Teope <br> 
         📚 <strong>Literature & Data Sources:</strong> 
         <a href="https://gain.nd.edu/our-work/country-index/methodology/" target="_blank">ND-GAIN Index</a> • 
