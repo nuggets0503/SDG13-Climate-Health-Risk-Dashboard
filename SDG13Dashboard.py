@@ -397,7 +397,8 @@ with tab4:
 st.markdown("""
     <div class="footer">
         🎓 <strong>Project Purpose:</strong>Final Project for CIS 220.<br>
-        👤 <strong>Designed & Built by:</strong> Erden Jhed Teope | 📚 <strong>Literature & Data Sources:</strong> 
+        👤 <strong>Designed & Built by:</strong> Erden Jhed Teope <br> 
+        📚 <strong>Literature & Data Sources:</strong> 
         <a href="https://gain.nd.edu/our-work/country-index/methodology/" target="_blank">ND-GAIN Index</a> • 
         <a href="https://www.ipcc.ch/report/ar6/wg2/" target="_blank">IPCC Report (2022)</a> • 
         <a href="https://unhabitat.org/wcr/" target="_blank">UN-Habitat (2022)</a> • 
