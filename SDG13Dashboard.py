@@ -63,8 +63,28 @@ st.markdown(f"""
                 margin-top:-0.4rem; margin-bottom:0.8rem;}}
     button[data-baseweb="tab"] {{font-size: 1rem;}}
     div[data-testid="stHorizontalBlock"] {{flex-wrap: wrap;}}
+
+    .footer {
+        color: #64748B;
+        font-size: 0.85rem;
+        text-align: center;
+        margin-top: 4rem;
+        padding-top: 1.5rem;
+        border-top: 1px solid #1E293B;
+        line-height: 1.6;
+    }
+    .footer a {
+        color: #60A5FA;
+        text-decoration: none;
+        font-weight: 500;
+    }
+    .footer a:hover {
+        text-decoration: underline;
+    }
     </style>
 """, unsafe_allow_html=True)
+
+
 
 # ==========================================================
 # 2. DATA LOADING
@@ -369,3 +389,18 @@ with tab4:
     gaps were filled by interpolation so results are estimates, not exact counts.
     </div>
     """, unsafe_allow_html=True)
+    
+# ==========================================================
+# 5. DASHBOARD FOOTER
+#    Principles: Negative Space, Consistency, Transparency
+# ==========================================================
+st.markdown("""
+    <div class="footer">
+        🎓 <strong>Project Purpose:</strong> Built as a Final Project for CIS 220.<br>
+        👤 <strong>Creator:</strong> Erden Jhed | 📚 <strong>Core Literature & Data Sources:</strong> 
+        <a href="https://gain.nd.edu/our-work/country-index/methodology/" target="_blank">ND-GAIN Index</a> • 
+        <a href="https://www.ipcc.ch/report/ar6/wg2/" target="_blank">IPCC Report (2022)</a> • 
+        <a href="https://unhabitat.org/wcr/" target="_blank">UN-Habitat (2022)</a> • 
+        <a href="https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health" target="_blank">WHO Fact Sheet (2023)</a>
+    </div>
+""", unsafe_allow_html=True)
