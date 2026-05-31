@@ -64,7 +64,7 @@ st.markdown(f"""
     button[data-baseweb="tab"] {{font-size: 1rem;}}
     div[data-testid="stHorizontalBlock"] {{flex-wrap: wrap;}}
 
-    .footer {
+    .footer {{
         color: #64748B;
         font-size: 0.85rem;
         text-align: center;
@@ -72,19 +72,15 @@ st.markdown(f"""
         padding-top: 1.5rem;
         border-top: 1px solid #1E293B;
         line-height: 1.6;
-    }
-    .footer a {
+    }}
+    .footer a {{
         color: #60A5FA;
         text-decoration: none;
         font-weight: 500;
-    }
-    .footer a:hover {
+    }}
+    .footer a:hover {{
         text-decoration: underline;
-    }
-    </style>
-""", unsafe_allow_html=True)
-
-
+    }}
 
 # ==========================================================
 # 2. DATA LOADING
