@@ -10,8 +10,8 @@ An interactive data dashboard that explores how human development, economic scal
 This project looks at data from 1995 to 2023 across thousands of country observations to understand how climate change affects human health. 
 
 It highlights a major **Climate Inequality Paradox**:
-* **The Shield:** Richer countries that has hgher carbon footprint tend to have *lower* immediate health risks because they can afford better hospitals, clean water, and cooling systems to protect their populations.
-* **The Penalty:** However, their emissions drive up global temperatures everywhere. This rising temperature directly *increases* health risks worldwide, which impacg poorer, low-emitting countries the hardest.
+* **The Shield:** Richer countries that has higher carbon footprint tend to have *lower* immediate health risks because they can afford better hospitals, clean water, and cooling systems to protect their populations.
+* **The Penalty:** However, their emissions drive up global temperatures everywhere. This rising temperature directly *increases* health risks worldwide, which impact poorer, low-emitting countries the hardest.
 
 ---
 
