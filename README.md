@@ -2,7 +2,7 @@
 
 An interactive data dashboard that explores how human development, economic scale, and rising global temperatures shape a country's health risk.
 
-🔗 **[Click here to view the Live Dashboard](https://sdg13-climate-change-and-health-risk-vulnerability-dashboard-d.streamlit.app/)**
+🔗 **[Click here to view the Live Dashboard](https://sdg13-climate-health-risk-dashboard-lnfxhu4naa9cwzkopfmruv.streamlit.app/)**
 
 ---
 
